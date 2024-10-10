@@ -1,7 +1,9 @@
 # Game of Life - Fantasy Edition
 
 A Java-based application that simulates a Game of Life, but with more cells and more colours.
+
 It has an easy-to-use GUI with buttons that start, stop, and reset the simulation.
+
 Demos are below.
 
 ## Coursework Details:
