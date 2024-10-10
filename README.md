@@ -5,9 +5,9 @@ It has an easy-to-use GUI with buttons that start, stop, and reset the simulatio
 Demos are below.
 
 ## Coursework Details:
-- The 3rd coursework for KCL's 4CCS1PPA module.
-- Grade: 93%.
-- Collaborators: Tom (GitHub link to be added).
+- The 3rd coursework for KCL's 4CCS1PPA module
+- Grade: 93%
+- Collaborators: Tom (GitHub link to be added)
 
 ## Gif Demo
 ![Game of Life Demo](https://i.imgur.com/FdTe8HA.gif)
