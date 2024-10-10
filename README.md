@@ -4,7 +4,7 @@ A Java-based application that simulates a Game of Life, but with more cells and 
 It has an easy-to-use GUI with buttons that start, stop, and reset the simulation.
 Demos are below.
 
-Coursework Details:
+# Coursework Details:
 - The 3rd coursework for KCL's 4CCS1PPA module.
 - Grade: 93%.
 - Collaborators: Tom (Github link to be added).
