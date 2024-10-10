@@ -7,8 +7,9 @@ It has an easy-to-use GUI with buttons that start, stop, and reset the simulatio
 Demos are below.
 
 ## Coursework Details:
-- The 3rd coursework for KCL's 4CCS1PPA module
+- The 3rd coursework for KCL's 1st year programming module, 4CCS1PPA
 - Grade: 93%
+- Pair coursework
 - Collaborators: Tom (GitHub link to be added)
 
 ## Gif Demo
