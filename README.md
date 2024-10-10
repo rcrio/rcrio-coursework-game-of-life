@@ -6,12 +6,11 @@ Demos are below.
 
 Coursework Details:
 - The 3rd coursework for KCL's 4CCS1PPA module.
-- Grade: 93%
-- Collaborators: Tom (Github link to be added)
+- Grade: 93%.
+- Collaborators: Tom (Github link to be added).
 
 ## Gif Demo
 ![Game of Life Demo](https://i.imgur.com/FdTe8HA.gif)
 
 ## Video Demo and Explanation
-3rd coursework for KCL's 1st year CS programming module (PPA). Grade: First (93%)
 
