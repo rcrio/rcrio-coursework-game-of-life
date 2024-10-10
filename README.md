@@ -1,6 +1,17 @@
+# Game of Life - Fantasy Edition
+
+A Java-based application that simulates a Game of Life, but with more cells and more colours.
+It has an easy-to-use GUI with buttons that start, stop, and reset the simulation.
+Demos are below.
+
+Coursework Details:
+- The 3rd coursework for KCL's 4CCS1PPA module.
+- Grade: 93%
+- Collaborators: Tom (Github link to be added)
+
+## Gif Demo
+![Game of Life Demo](https://i.imgur.com/FdTe8HA.gif)
+
+## Video Demo and Explanation
 3rd coursework for KCL's 1st year CS programming module (PPA). Grade: First (93%)
 
-
-This was a pair coursework and I did it with Tom (who I'll link his GitHub whenever I get it). 
-He did a lot on the GUI and the buttons, and I worked a lot on making the code nice, fixing some bugs and on the report. 
-Both of us worked a lot on the logic. 
